@@ -17,4 +17,4 @@ end
 squared_array
 end
 
-squared_array([1, 2, 3])
+squared_method([1, 2, 3])
