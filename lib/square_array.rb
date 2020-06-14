@@ -6,7 +6,7 @@
 #square_array(new_numbers)
 #=> [1, 4, 9]
 
-def square_method(array)
+def squared_method(array)
  squared_array = []
  
  count = 0 
