@@ -15,3 +15,5 @@ def square_array(array)
   end
   squared
 end
+
+square_array([1, 2, 3])
