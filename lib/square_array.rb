@@ -6,14 +6,13 @@
 #square_array(new_numbers)
 #=> [1, 4, 9]
 
-def square_array(array)
-  squared = []
-  count = 0
-  while count < array.size do
-    squared << (array[count] ** 2)
-    count = count + 1
-  end
-  squared
+def square_method(array)
+ squared_array = []
+ 
+ count = 0 
+ while count < array.size do 
+   squared_array << (array[count] ** 2)
+  count += 1 
+end 
+squared_array
 end
-
-p square_array([1, 2, 3])
