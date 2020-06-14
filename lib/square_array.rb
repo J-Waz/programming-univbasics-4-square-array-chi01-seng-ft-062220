@@ -6,3 +6,7 @@
 #square_array(new_numbers)
 #=> [1, 4, 9]
 
+def square_array (array)
+  
+  
+end
