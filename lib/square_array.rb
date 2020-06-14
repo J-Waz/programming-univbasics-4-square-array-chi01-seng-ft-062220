@@ -16,4 +16,4 @@ def square_array(array)
   squared
 end
 
-square_array([1, 2, 3])
+p square_array([1, 2, 3])
