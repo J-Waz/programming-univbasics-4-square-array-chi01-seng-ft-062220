@@ -16,3 +16,5 @@ def squared_method(array)
 end 
 squared_array
 end
+
+squared_array([1, 2, 3])
